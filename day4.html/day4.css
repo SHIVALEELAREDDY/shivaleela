@@ -1,0 +1,31 @@
+*{
+    margin-right: 40px;
+    margin-left: 20px;
+}
+.parentcontiner{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+}
+.p{
+    background-color: azure;
+    padding: 1px;
+    margin-bottom: 100px;
+    justify-content: space-between;
+    color: black;
+}
+.parentcontiner2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+    background-color: darkolivegreen;
+    color: white;
+    border: 1px;
+
+}
+.parentcontiner3{
+    background-color: aquamarine;
+    color: black;
+    display: flex;
+    margin-bottom: 100px;
+}
